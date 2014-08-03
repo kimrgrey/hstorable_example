@@ -18,4 +18,4 @@ group :development do
 end
 
 gem 'thin'
-gem 'hstorable', '~> 0.0.4'
+gem 'hstorable', '~> 0.0.5'
